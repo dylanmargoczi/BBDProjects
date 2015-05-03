@@ -22,9 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="Awards" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Awards" target="1.5" />
       <module name="maven" target="1.5" />
     </bytecodeTargetLevel>
   </component>
