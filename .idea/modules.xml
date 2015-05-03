@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Awards/Awards.iml" filepath="$PROJECT_DIR$/Awards/Awards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BBDProjects.iml" filepath="$PROJECT_DIR$/.idea/BBDProjects.iml" />
+    </modules>
+  </component>
+</project>
